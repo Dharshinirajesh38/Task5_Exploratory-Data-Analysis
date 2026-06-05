@@ -40,9 +40,9 @@ Dataset Features:
 
 ### Data Inspection
 
-* Dataset information using `df.info()`
-* Missing value analysis using `df.isnull().sum()`
-* Statistical summary using `df.describe()`
+* Dataset information using df.info()
+* Missing value analysis using df.isnull().sum()
+* Statistical summary using df.describe()
 
 ### Visualizations
 
